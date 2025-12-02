@@ -25,9 +25,10 @@
 </p>
 
 ---
+## Github Stats
 
 <div align="center">
-## Github Stats
+
 <img src="https://github-readme-stats.vercel.app/api?username=melikeaytac&show_icons=true&theme=gotham" width="45%" align="right"/>
 
 ### Github Streaks
