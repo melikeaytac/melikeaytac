@@ -1,7 +1,7 @@
 <div align="center">
 
 ## 🎀 Hello, I’m Melike!
-<img src="https://media1.tenor.com/m/fq-1gwJhSf8AAAAd/baby-koding-baby.gif" width="230">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGR4Z3o4dzFsaTIxdmQxYm1reGdhZTVqNnhpNW5lbWtrNnF5a2R1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" width="230">
 
 **“Writing code like I totally know what I'm doing.”**
 
