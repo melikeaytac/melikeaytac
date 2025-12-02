@@ -3,7 +3,7 @@
 ## 🎀 Hello, I’m Melike!
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGR4Z3o4dzFsaTIxdmQxYm1reGdhZTVqNnhpNW5lbWtrNnF5a2R1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" width="230">
 
-**“Writing code like I totally know what I'm doing.”**
+**Writing code like I totally know what I'm doing.**
 
 </div>
 
@@ -32,7 +32,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=melikeaytac&show_icons=true&theme=gotham" width="45%" align="right"/>
 
 ### Github Streaks
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=melikeaytac&theme=dark" width="48%" >
+<img src="https://streak-stats.demolab.com/?user=melikeaytac&theme=dark" width="48%" >
 
 ### Top Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melikeaytac&layout=compact" >
