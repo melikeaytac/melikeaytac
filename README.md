@@ -1,16 +1,58 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**melikeaytac/melikeaytac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎀 Hello, I’m Melike!
+<img src="https://media1.tenor.com/m/fq-1gwJhSf8AAAAd/baby-koding-baby.gif" width="260">
 
-Here are some ideas to get you started:
+**“Writing code like I totally know what I'm doing.”**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🎯 About Me
+- Senior Software Engineering student  
+- Building smart systems (Computer Vision, Edge AI, Cloud)  
+- Backend architectures (Node.js, PostgreSQL, Azure)  
+- Interested in UI/UX, DevOps, and data-driven design 
+- Probably debugging right now  
+- Powered by coffee and questionable decisions  
+
+---
+
+## 🧰 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,vite,postgres,azure,docker,git,github,figma,python"/>
+</p>
+
+---
+
+<div align="center">
+
+### Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username=melikeaytac&show_icons=true&theme=gotham" width="45%" align="right"/>
+
+### Github Streaks
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=melikeaytac&theme=dark" width="48%" >
+
+### Top Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melikeaytac&layout=compact" >
+
+---
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🌙_night_coder-9f88f5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💀-Bug_Collector-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔥-Accidental_DevOps-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/☕-Coffee_Driven-yellow?style=for-the-badge" />
+</p>
+
+---
+
+
+## 📫 Contact Me
+LinkedIn: https://linkedin.com/in/melike-aytac 
+Mail: 48melikeaytac@gmail.com
