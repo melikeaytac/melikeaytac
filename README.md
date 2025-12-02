@@ -27,7 +27,6 @@
 ---
 
 <div align="center">
-
 ### Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=melikeaytac&show_icons=true&theme=gotham" width="45%" align="right"/>
 
@@ -36,8 +35,6 @@
 
 ### Top Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melikeaytac&layout=compact" >
-
----
 
 </div>
 
